@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ayusha 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Kacha Badam
 - 📫 How to reach me ayushasinha1604@gmail.com
 
 <!---
